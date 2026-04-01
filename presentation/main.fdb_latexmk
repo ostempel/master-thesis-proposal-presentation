@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1775035798.43276 "main.aux" "main.bbl" "main" 1775035798.50928 2
+["bibtex main"] 1775036382.37503 "main.aux" "main.bbl" "main" 1775036384.85132 0
   "./literature.bib" 1775034236.40086 552 862f9fc17bb602c400d57338459464d0 ""
   "/usr/share/texmf-dist/bibtex/bst/base/plain.bst" 1772820570 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "main.aux" 1775035790.42877 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main.aux" 1775036384.36352 2023 8fce449c678999c2a0b9d86c03b4d3b1 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1775035656.86983 "/home/ostempel/git/master-thesis/master-thesis-proposal-presentation/presentation/main.tex" "main.pdf" "main" 1775035658.75121 2
-  "/home/ostempel/git/master-thesis/master-thesis-proposal-presentation/presentation/main.tex" 1775035656.75274 3444 6df40a1d90d9a6484226bd587cb96c98 ""
+["pdflatex"] 1775036382.49625 "/home/ostempel/git/master-thesis/master-thesis-proposal-presentation/presentation/main.tex" "main.pdf" "main" 1775036384.85176 0
+  "/home/ostempel/git/master-thesis/master-thesis-proposal-presentation/presentation/main.tex" 1775036376.81548 3369 806f088065748cc1099e9576523507ef ""
   "/usr/share/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc" 1772820570 3021 665788e9679767ade2a71155215d25e0 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1772820570 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Bold-tlf-t1--base.tfm" 1772820570 1648 77a748afe0a406be1ac3f29e1cd365cb ""
@@ -174,6 +174,7 @@
   "/usr/share/texmf-dist/tex/latex/caption/caption.sty" 1772820570 56128 c2ccf1a29d78c33bc553880402e4fb9a ""
   "/usr/share/texmf-dist/tex/latex/caption/caption3.sty" 1772820570 72619 ee90b6612147680fd73c3b1406a74245 ""
   "/usr/share/texmf-dist/tex/latex/cases/cases.sty" 1772820570 9865 f4184f7819aee103905908cd33492412 ""
+  "/usr/share/texmf-dist/tex/latex/colortbl/colortbl.sty" 1772820570 12709 4ca3cf5f9f1d551b8a1090fba11ac95d ""
   "/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1772820570 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1772820570 46885 8953c67ffba03252c6090aa19568b8ba ""
   "/usr/share/texmf-dist/tex/latex/float/float.sty" 1772820570 6749 16d2656a1984957e674b149555f1ea1d ""
@@ -181,6 +182,7 @@
   "/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1772820570 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1772820570 1224 978390e9c2234eab29404bc21b268d1e ""
   "/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def" 1772820570 19626 23e2822b9b2b5005f4c549ca98b9334d ""
+  "/usr/share/texmf-dist/tex/latex/graphics/color.sty" 1772820570 7245 a7e8457a46cda4920df85d975267efb4 ""
   "/usr/share/texmf-dist/tex/latex/graphics/graphics.sty" 1772820570 18363 69bb4f5538964bfea50d1e6d89cbe69f ""
   "/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty" 1772820570 8118 43b99e52946c33a23f5f43b52d5cc5ec ""
   "/usr/share/texmf-dist/tex/latex/graphics/keyval.sty" 1772820570 2671 d9941f4bf4750e9b0603c9a2ec54693b ""
@@ -221,6 +223,7 @@
   "/usr/share/texmf-dist/tex/latex/sourcesanspro/T1SourceSansPro-TLF.fd" 1772820570 6595 d29a190e70dfce87f0c64c45977f2f94 ""
   "/usr/share/texmf-dist/tex/latex/sourcesanspro/sourcesanspro.sty" 1772820570 6172 8007ee7cf6262667ed58bbed36a42c35 ""
   "/usr/share/texmf-dist/tex/latex/textpos/textpos.sty" 1772820570 12842 35403bda336a71a37a5edc37b78e3ec3 ""
+  "/usr/share/texmf-dist/tex/latex/tools/array.sty" 1772820570 15651 9d7c62df82cb29a555c00550babfe364 ""
   "/usr/share/texmf-dist/tex/latex/tools/enumerate.sty" 1772820570 3468 f21ceb3448a22fec45299f924e7fc48b ""
   "/usr/share/texmf-dist/tex/latex/tools/verbatim.sty" 1772820570 7532 26d26e9d8f2ca784270d5da8ec7d102b ""
   "/usr/share/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict" 1772820570 3535 7dc96051305a7e943219126c49c44cd6 ""
@@ -239,12 +242,12 @@
   "architecture.png" 1775035528.68189 500336 2a6561d5f5a6d4b7c0569b3d8d6612ef ""
   "lmu-background.pdf" 1775034236.40059 66051 db0b87484d5e254e6f8288c8895b57e1 ""
   "lmu_logo.png" 1775034236.40029 63248 66fd65dbd91c42a8fc02109f0ffbf0f6 ""
-  "main.aux" 1775035790.42877 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "main.bbl" 1775035798.50477 0 d41d8cd98f00b204e9800998ecf8427e "bibtex main"
-  "main.nav" 1775035658.32975 1055 c4ace609860d6cedeff23cfa0f07e195 "pdflatex"
-  "main.out" 1775035658.32875 103 47949ac7c3dcedddeefe3cd50587dda1 "pdflatex"
-  "main.tex" 1775035656.75274 3444 6df40a1d90d9a6484226bd587cb96c98 ""
-  "main.toc" 1775035658.32975 124 425d1ad06b39469378cc627779699c0b "pdflatex"
+  "main.aux" 1775036384.36352 2023 8fce449c678999c2a0b9d86c03b4d3b1 "pdflatex"
+  "main.bbl" 1775036382.48251 337 f028b7173485e4b892ac5065a9bdfa8e "bibtex main"
+  "main.nav" 1775036384.36552 1055 c4ace609860d6cedeff23cfa0f07e195 "pdflatex"
+  "main.out" 1775036384.36552 103 47949ac7c3dcedddeefe3cd50587dda1 "pdflatex"
+  "main.tex" 1775036376.81548 3369 806f088065748cc1099e9576523507ef ""
+  "main.toc" 1775036384.36652 124 425d1ad06b39469378cc627779699c0b "pdflatex"
   (generated)
   "main.aux"
   "main.log"

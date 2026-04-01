@@ -14,10 +14,12 @@
 \usepackage[english]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath,amssymb} % math symbols
-\usepackage{graphicx}
+\usepackage{float}
+\usepackage{colortbl}
 \usepackage{float}
 \usepackage{hyperref} % for URLs
-\newcommand{\gray}{\rowcolor[gray]{.90}}
+\usepackage{xcolor}
+\definecolor{lightgray}{gray}{0.9}
 \usepackage{verbatim}
 \usepackage{textpos} % logo position
 \usepackage[default]{sourcesanspro} % font type
@@ -76,20 +78,16 @@ belowskip = -1.2 \baselineskip,
 \title{From Snapshots to Streams: A Live State Graph Approach for LLM-Based Root-Cause-Analysis in Kubernetes}
 
 \author{OliverStempel}
-\institute[LMU]{LMU} % Your institution as it will appear on the bottom of every slide, may be shorthand to save space
-{
-
-}
+\institute[LMU]{LMU}
 \begin{document}
 
-{
 \usebackgroundtemplate{\includegraphics[width=\paperwidth]{lmu-background.pdf}}
 \begin{frame}
 \begin{columns}
 	\begin{column}{0.4\textwidth}
 		\vspace{3cm}
 
-		\textbf{\textcolor{white}{\LargeContinuous From Snapshots to Streams: A Live State Graph Approach for LLM-Based Root-Cause-Analysis in Kubernetes }}
+		\textbf{\textcolor{white}{\Large Continuous From Snapshots to Streams: A Live State Graph Approach for LLM-Based Root-Cause-Analysis in Kubernetes }}
 		\vspace{1cm}
 
 		\textcolor{white}{\footnotesize OliverStempel \\
@@ -103,7 +101,6 @@ belowskip = -1.2 \baselineskip,
 	\end{column}
 \end{columns}
 \end{frame}
-}
 %----------------------------------------------------------------------------------------
 %	PRESENTATION SLIDES
 %----------------------------------------------------------------------------------------
@@ -119,7 +116,7 @@ Example citation \cite{bischl2015}
 
 \section{Background}
 
-\begin{frame}{Introduction}
+\begin{frame}{Background}
 
 Example citation \cite{bischl2015}
 
