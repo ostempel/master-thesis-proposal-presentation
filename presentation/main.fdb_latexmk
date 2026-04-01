@@ -1,18 +1,19 @@
 # Fdb version 4
-["bibtex main"] 1775050673.41983 "main.aux" "main.bbl" "main" 1775050676.07193 0
+["bibtex main"] 1775050984.17857 "main.aux" "main.bbl" "main" 1775051439.53101 0
   "./literature.bib" 1775050650.97197 654 6174e720de1ecbad20bd033a666ea9fe ""
   "/usr/share/texmf-dist/bibtex/bst/base/plain.bst" 1772820570 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "main.aux" 1775050675.63812 2553 a6b2049b4d5d0b111199bc11ad3d4bf1 "pdflatex"
+  "main.aux" 1775051439.22674 3139 52403299ba0fc9438c7f64b73d4c0506 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1775050673.5414 "/home/ostempel/git/master-thesis/master-thesis-proposal-presentation/presentation/main.tex" "main.pdf" "main" 1775050676.07242 0
-  "/home/ostempel/git/master-thesis/master-thesis-proposal-presentation/presentation/main.tex" 1775050668.07807 4934 62c1358ab27b5e97b073bb79183a6944 ""
+["pdflatex"] 1775051437.08355 "/home/ostempel/git/master-thesis/master-thesis-proposal-presentation/presentation/main.tex" "main.pdf" "main" 1775051439.53142 0
+  "/home/ostempel/git/master-thesis/master-thesis-proposal-presentation/presentation/main.tex" 1775051436.95473 5329 eb1697667e10c9b5591dfe3bb2f7a1df ""
   "/usr/share/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc" 1772820570 3021 665788e9679767ade2a71155215d25e0 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1772820570 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Bold-tlf-t1--base.tfm" 1772820570 1648 77a748afe0a406be1ac3f29e1cd365cb ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Bold-tlf-t1.tfm" 1772820570 37016 442637758ed935c1c5c22443691f4bf5 ""
+  "/usr/share/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-It-tlf-t1--base.tfm" 1772820570 1848 e2f45546755035c2f33bf301533311da ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-It-tlf-t1.tfm" 1772820570 32512 ec243704740ad1ec49e8dc73a99dd8e2 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Regular-tlf-t1--base.tfm" 1772820570 1652 31b9d596c0c8dcc7bcfc0431833ece08 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Regular-tlf-t1.tfm" 1772820570 37576 ac3ddef6397b06e0361b81f77f4ab180 ""
@@ -34,9 +35,11 @@
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1772820570 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1772820570 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/share/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb" 1772820570 356260 5bc504cea2bf4f3148de985d938ed606 ""
+  "/usr/share/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb" 1772820570 263595 c7d0bf539613db43888d746e8e621f5b ""
   "/usr/share/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb" 1772820570 336785 795f953d37ac49dd5bce485becd006cc ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1772820570 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/share/texmf-dist/fonts/vf/adobe/sourcesanspro/SourceSansPro-Bold-tlf-t1.vf" 1772820570 1728 b87be699681a04d54541fcaa47fe285c ""
+  "/usr/share/texmf-dist/fonts/vf/adobe/sourcesanspro/SourceSansPro-It-tlf-t1.vf" 1772820570 1728 cd0ad4aba341a5f4c4f098074aa956aa ""
   "/usr/share/texmf-dist/fonts/vf/adobe/sourcesanspro/SourceSansPro-Regular-tlf-t1.vf" 1772820570 1732 92bc4ab7a012370b497bd8030a4c8332 ""
   "/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1772820570 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/share/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1772820570 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -256,13 +259,13 @@
   "k8s.png" 1775044030.46396 173001 1b13b900613773264b089754a7f4a42e ""
   "lmu-background.pdf" 1775034236.40059 66051 db0b87484d5e254e6f8288c8895b57e1 ""
   "lmu_logo.png" 1775034236.40029 63248 66fd65dbd91c42a8fc02109f0ffbf0f6 ""
-  "main.aux" 1775050675.63812 2553 a6b2049b4d5d0b111199bc11ad3d4bf1 "pdflatex"
-  "main.bbl" 1775050673.52811 405 52232977e3ea4c6d80066b22e4fad4cf "bibtex main"
-  "main.nav" 1775050675.64012 1231 5148ef3a9ce534dd676035e94753a9ae "pdflatex"
-  "main.out" 1775050675.63912 103 47949ac7c3dcedddeefe3cd50587dda1 "pdflatex"
-  "main.tex" 1775050668.07807 4934 62c1358ab27b5e97b073bb79183a6944 ""
-  "main.toc" 1775050675.64012 124 425d1ad06b39469378cc627779699c0b "pdflatex"
-  "main.vrb" 1775050675.53812 362 7df73d885bb06920f4c4c5914bf63222 "pdflatex"
+  "main.aux" 1775051439.22674 3139 52403299ba0fc9438c7f64b73d4c0506 "pdflatex"
+  "main.bbl" 1775050984.28698 405 52232977e3ea4c6d80066b22e4fad4cf "bibtex main"
+  "main.nav" 1775051439.22874 1581 a33bd1a5c915b601896d2643562ec711 "pdflatex"
+  "main.out" 1775051439.22774 103 47949ac7c3dcedddeefe3cd50587dda1 "pdflatex"
+  "main.tex" 1775051436.95473 5329 eb1697667e10c9b5591dfe3bb2f7a1df ""
+  "main.toc" 1775051439.22874 177 3fa1d99536b429fe61f42bf3b1d3c267 "pdflatex"
+  "main.vrb" 1775051439.14953 277 05fbdeb238324fd63e5df87accf99401 "pdflatex"
   "synergy.png" 1775050081.95956 118626 53cddee6b17805e49be2fb511d90dc9d ""
   (generated)
   "main.aux"

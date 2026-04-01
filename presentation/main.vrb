@@ -1,15 +1,7 @@
-\frametitle{Background}
+\frametitle{Research Question}
 
-\begin{columns}
-\column{0.4\textwidth}
-Synergy-RCA \cite{synergy-rca}:
-\begin{itemize}
-    \item periodically maps cluster snapshots to graph
-    \item leverages LLMs to generate queries, checks, reports
-\end{itemize}
+\textbf{Research Question:}
+\vspace{10pt}
 
-\column{0.6\textwidth}
-\begin{center}
-  \includegraphics[width=0.8\textwidth]{synergy.png}
-\end{center}
-\end{columns}
+\textit{"Does a live state graph for Kubernetes and predefined traversal tools improve the quality, speed and interpretability under dynamic cluster conditions compared to snapshot-based approaches."}
+

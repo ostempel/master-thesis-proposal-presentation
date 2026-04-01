@@ -118,6 +118,8 @@ belowskip = -1.2 \baselineskip,
   \item Root cause analysis (RCA) as key bottleneck
 \end{itemize}
 
+\vspace{10pt}
+
 $\Rightarrow$\ LLM-based assistance systems promise cognitive reduction and timely detection
 
 \end{frame}
@@ -128,7 +130,7 @@ $\Rightarrow$\ LLM-based assistance systems promise cognitive reduction and time
 
 \begin{columns}
 \column{0.4\textwidth}
-Kubernetes:
+\textbf{Kubernetes:}
 \begin{itemize}
   \item Open-source, feature-rich container orchestrator
   \item Deployments through declarative manifests
@@ -148,13 +150,15 @@ Kubernetes:
 
 \begin{columns}
 \column{0.4\textwidth}
-Error sources:
+\textbf{Error sources:}
 \begin{itemize}
   \item Unforeseen events: node dies, network issues, ...
   \item Syntactically correct but semantically incorrect manifests
 \end{itemize}
 
-Error handling:
+\vspace{10pt}
+
+\textbf{Error handling:}
 \begin{itemize}
   \item Reading docs
   \item Manually debugging through API-resources with the CLI
@@ -174,7 +178,7 @@ Error handling:
 
 \begin{columns}
 \column{0.4\textwidth}
-Synergy-RCA \cite{synergy-rca}:
+\textbf{Synergy-RCA} \cite{synergy-rca}:
 \begin{itemize}
     \item periodically maps cluster snapshots to graph
     \item leverages LLMs to generate queries, checks, reports
@@ -185,6 +189,16 @@ Synergy-RCA \cite{synergy-rca}:
   \includegraphics[width=0.8\textwidth]{synergy.png}
 \end{center}
 \end{columns}
+\end{frame}
+
+\section{Research Question}
+\begin{frame}[fragile]{Research Question}
+
+\textbf{Research Question:}
+\vspace{10pt}
+
+\textit{"Does a live state graph for Kubernetes and predefined traversal tools improve the quality, speed and interpretability under dynamic cluster conditions compared to snapshot-based approaches."}
+
 \end{frame}
 
 \begin{frame}[allowframebreaks]
