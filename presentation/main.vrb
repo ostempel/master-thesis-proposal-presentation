@@ -1,0 +1,15 @@
+\frametitle{Background}
+
+\begin{columns}
+\column{0.4\textwidth}
+Synergy-RCA \cite{synergy-rca}:
+\begin{itemize}
+    \item periodically maps cluster snapshots to graph
+    \item leverages LLMs to generate queries, checks, reports
+\end{itemize}
+
+\column{0.6\textwidth}
+\begin{center}
+  \includegraphics[width=0.8\textwidth]{synergy.png}
+\end{center}
+\end{columns}

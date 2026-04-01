@@ -6,4 +6,9 @@
   2024.
 \newblock [Online].
 
+\bibitem{synergy-rca}
+Yong Xiang, Charley~Peter Chen, Liyi Zeng, Wei Yin, Xin Liu, Hu~Li, and Wei Xu.
+\newblock Simplifying root cause analysis in kubernetes with stategraph and
+  llm, 2025.
+
 \end{thebibliography}

@@ -87,7 +87,7 @@ belowskip = -1.2 \baselineskip,
 	\begin{column}{0.4\textwidth}
 		\vspace{3cm}
 
-		\textbf{\textcolor{white}{\LargeContinuous From Snapshots to Streams: A Live State Graph Approach for LLM-Based Root-Cause-Analysis in Kubernetes }}
+		\textbf{\textcolor{white}{\Large Continuous From Snapshots to Streams: A Live State Graph Approach for LLM-Based Root-Cause-Analysis in Kubernetes }}
 		\vspace{1cm}
 
 		\textcolor{white}{\footnotesize OliverStempel \\
@@ -144,47 +144,48 @@ Kubernetes:
 
 \end{frame}
 
-\begin{frame}{Background}
+\begin{frame}[fragile]{Background}
+
+\begin{columns}
+\column{0.4\textwidth}
 Error sources:
 \begin{itemize}
   \item Unforeseen events: node dies, network issues, ...
   \item Syntactically correct but semantically incorrect manifests
 \end{itemize}
-% YAML content here...
-% ---
-% apiVersion: v1
-% kind: ConfigMap
-% metadata:
-%   name: app-config
-% data:
-%   key: value
-% ---
-% apiVersion: apps/v1
-% kind: Deployment
-% metadata:
-%   name: my-app
-% spec:
-%   replicas: 1
-%   selector:
-%     matchLabels:
-%       app: my-app
-%   template:
-%     metadata:
-%       labels:
-%         app: my-app
-%     spec:
-%       containers:
-%         - name: main
-%           image: nginx:1.27
-%           volumeMounts:
-%             - name: config
-%               mountPath: /etc/config
-%       volumes:
-%         - name: config
-%           configMap:
-%             name: app-config-typo
+
+Error handling:
+\begin{itemize}
+  \item Reading docs
+  \item Manually debugging through API-resources with the CLI
+  \item Applying fixes
+\end{itemize}
+
+
+\column{0.6\textwidth}
+\begin{center}
+  \includegraphics[width=0.4\textwidth]{error-yaml.png}
+\end{center}
+\end{columns}
 \end{frame}
 
+
+\begin{frame}[fragile]{Background}
+
+\begin{columns}
+\column{0.4\textwidth}
+Synergy-RCA \cite{synergy-rca}:
+\begin{itemize}
+    \item periodically maps cluster snapshots to graph
+    \item leverages LLMs to generate queries, checks, reports
+\end{itemize}
+
+\column{0.6\textwidth}
+\begin{center}
+  \includegraphics[width=0.8\textwidth]{synergy.png}
+\end{center}
+\end{columns}
+\end{frame}
 
 \begin{frame}[allowframebreaks]
         \frametitle{References}
