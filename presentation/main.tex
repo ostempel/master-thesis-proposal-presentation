@@ -4,7 +4,6 @@
 
 \documentclass[aspectratio=169]{beamer}
 \mode<presentation> {
-
 	\usetheme{Boadilla}
 }
 \definecolor{lmugreen}{RGB}{0, 136, 58}
@@ -14,16 +13,13 @@
 \usepackage[english]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath,amssymb} % math symbols
-\usepackage{float}
-\usepackage{colortbl}
-\usepackage{float}
 \usepackage{hyperref} % for URLs
-\usepackage{xcolor}
-\definecolor{lightgray}{gray}{0.9}
 \usepackage{verbatim}
 \usepackage{textpos} % logo position
 \usepackage[default]{sourcesanspro} % font type
 \usepackage{cases} % math cases
+\usepackage[inkscapelatex=false]{svg}
+\usepackage[cache=false]{minted}
 
 % Caption
 \usepackage{caption}
@@ -78,16 +74,20 @@ belowskip = -1.2 \baselineskip,
 \title{From Snapshots to Streams: A Live State Graph Approach for LLM-Based Root-Cause-Analysis in Kubernetes}
 
 \author{OliverStempel}
-\institute[LMU]{LMU}
+\institute[LMU]{LMU} % Your institution as it will appear on the bottom of every slide, may be shorthand to save space
+{
+
+}
 \begin{document}
 
+{
 \usebackgroundtemplate{\includegraphics[width=\paperwidth]{lmu-background.pdf}}
 \begin{frame}
 \begin{columns}
 	\begin{column}{0.4\textwidth}
 		\vspace{3cm}
 
-		\textbf{\textcolor{white}{\Large Continuous From Snapshots to Streams: A Live State Graph Approach for LLM-Based Root-Cause-Analysis in Kubernetes }}
+		\textbf{\textcolor{white}{\LargeContinuous From Snapshots to Streams: A Live State Graph Approach for LLM-Based Root-Cause-Analysis in Kubernetes }}
 		\vspace{1cm}
 
 		\textcolor{white}{\footnotesize OliverStempel \\
@@ -101,6 +101,8 @@ belowskip = -1.2 \baselineskip,
 	\end{column}
 \end{columns}
 \end{frame}
+
+}
 %----------------------------------------------------------------------------------------
 %	PRESENTATION SLIDES
 %----------------------------------------------------------------------------------------
@@ -110,7 +112,13 @@ belowskip = -1.2 \baselineskip,
 
 \begin{frame}{Introduction}
 
-Example citation \cite{bischl2015}
+\begin{itemize}
+  \item Kubernetes and cloud-native technologies have become industry standard
+  \item Key challenges: perceived complexity, lack of training \cite{cncf2024}
+  \item Root cause analysis (RCA) as key bottleneck
+\end{itemize}
+
+$\Rightarrow$\ LLM-based assistance systems promise cognitive reduction and timely detection
 
 \end{frame}
 
@@ -118,8 +126,63 @@ Example citation \cite{bischl2015}
 
 \begin{frame}{Background}
 
-Example citation \cite{bischl2015}
+\begin{columns}
+\column{0.4\textwidth}
+Kubernetes:
+\begin{itemize}
+  \item Open-source, feature-rich container orchestrator
+  \item Deployments through declarative manifests
+\end{itemize}
 
+\column{0.6\textwidth}
+\begin{center}
+  \includegraphics[width=1.0\textwidth]{k8s.png}
+\end{center}
+\end{columns}
+
+\vspace{10pt}
+
+\end{frame}
+
+\begin{frame}{Background}
+Error sources:
+\begin{itemize}
+  \item Unforeseen events: node dies, network issues, ...
+  \item Syntactically correct but semantically incorrect manifests
+\end{itemize}
+% YAML content here...
+% ---
+% apiVersion: v1
+% kind: ConfigMap
+% metadata:
+%   name: app-config
+% data:
+%   key: value
+% ---
+% apiVersion: apps/v1
+% kind: Deployment
+% metadata:
+%   name: my-app
+% spec:
+%   replicas: 1
+%   selector:
+%     matchLabels:
+%       app: my-app
+%   template:
+%     metadata:
+%       labels:
+%         app: my-app
+%     spec:
+%       containers:
+%         - name: main
+%           image: nginx:1.27
+%           volumeMounts:
+%             - name: config
+%               mountPath: /etc/config
+%       volumes:
+%         - name: config
+%           configMap:
+%             name: app-config-typo
 \end{frame}
 
 

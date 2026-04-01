@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.4.1)  1 APR 2026 11:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.4.1)  1 APR 2026 14:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -743,49 +743,24 @@ Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks46
 \inpenc@posthook=\toks47
 )
-(/usr/share/texmf-dist/tex/latex/float/float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count364
-\float@exts=\toks48
-\float@box=\box78
-\@float@everytoks=\toks49
-\@floatcapt=\box79
-)
-(/usr/share/texmf-dist/tex/latex/colortbl/colortbl.sty
-Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
-
-(/usr/share/texmf-dist/tex/latex/tools/array.sty
-Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
-\col@sep=\dimen316
-\ar@mcellbox=\box80
-\extrarowheight=\dimen317
-\NC@list=\toks50
-\extratabsurround=\skip67
-\backup@length=\skip68
-\ar@cellbox=\box81
-)
-\everycr=\toks51
-\minrowclearance=\skip69
-\rownum=\count365
-)
 (/usr/share/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks52
-\verbatim@line=\toks53
+\every@verbatim=\toks48
+\verbatim@line=\toks49
 \verbatim@in@stream=\read4
 )
 (/usr/share/texmf-dist/tex/latex/textpos/textpos.sty
 Package: textpos 2022/07/23 v1.10.1
 Package textpos Info: choosing support for LaTeX3 on input line 60.
-\TP@textbox=\box82
-\TPHorizModule=\dimen318
-\TPVertModule=\dimen319
-\TP@margin=\dimen320
-\TP@absmargin=\dimen321
+\TP@textbox=\box78
+\TPHorizModule=\dimen316
+\TPVertModule=\dimen317
+\TP@margin=\dimen318
+\TP@absmargin=\dimen319
 
 Grid set 16 x 16 = 28.45274pt x 16.00467pt
-\TPboxrulesize=\dimen322
-\TP@tbargs=\toks54
+\TPboxrulesize=\dimen320
+\TP@tbargs=\toks50
 ) (/usr/share/texmf-dist/tex/latex/sourcesanspro/sourcesanspro.sty
 Package: sourcesanspro 2018/05/19 v2.7 Adobe's Source Sans Pro typeface
 
@@ -800,11 +775,11 @@ Package: xkeyval 2025/11/04 v2.10 package option processing (HA)
 
 (/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks55
-\XKV@tempa@toks=\toks56
-\XKV@tempb@toks=\toks57
+\XKV@toks=\toks51
+\XKV@tempa@toks=\toks52
+\XKV@tempb@toks=\toks53
 )
-\XKV@depth=\count366
+\XKV@depth=\count364
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
@@ -945,56 +920,182 @@ File: ly1enc.dfu 2022/06/07 v1.3c UTF-8 support
 ))))
 (/usr/share/texmf-dist/tex/latex/cases/cases.sty
 Package: cases 2020/03/29 ver 3.2
-\numc@numwid=\dimen323
+\numc@numwid=\dimen321
+)
+(/usr/share/texmf-dist/tex/latex/svg/svg.sty
+Package: svg 2020/11/26 v2.02k (include SVG pictures)
+
+(/usr/share/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2026/02/02 v3.49.2 KOMA-Script package (KOMA-Script-independen
+t basics and keyval usage)
+Applying: [2021/05/01] Usage of raw or classic option list on input line 254.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 370.
+)
+(/usr/share/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+(/usr/share/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+\c@svg@param@lastpage=\count365
+\svg@box=\box79
+\c@svg@param@currpage=\count366
+)
+(/usr/share/texmf-dist/tex/latex/transparent/transparent.sty
+Package: transparent 2025-06-23 v1.6 Transparency with color stacks
+
+(/usr/share/texmf-dist/tex/latex/transparent/transparent-nometadata.sty
+Package: transparent-nometadata 2025-06-23 v1.6 Transparency via pdfTeX's color
+ stack (HO)
+
+(/usr/share/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)))
+(/usr/share/texmf-dist/tex/latex/minted/minted.sty
+Package: minted 2026/03/03 v3.8.0 Yet another Pygments shim for LaTeX
+
+(/usr/share/texmf-dist/tex/generic/catchfile/catchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+
+(/usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+))
+(/usr/share/texmf-dist/tex/latex/fvextra/fvextra.sty
+Package: fvextra 2026/02/25 v1.14.0 fvextra - extensions and patches for fancyv
+rb
+
+(/usr/share/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2025/07/28 4.6 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count367
+\FV@InFile=\read5
+\FV@TabBox=\box80
+\c@FancyVerbLine=\count368
+\FV@StepNumber=\count369
+\FV@OutFile=\write5
+)
+(/usr/share/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+
+(/usr/share/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+))
+(/usr/share/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2026/02/16 line numbers on paragraphs v5.7
+\linenopenalty=\count370
+\output=\toks54
+\linenoprevgraf=\count371
+\linenumbersep=\dimen322
+\linenumberwidth=\dimen323
+\c@linenumber=\count372
+\c@pagewiselinenumber=\count373
+\c@LN@truepage=\count374
+\c@internallinenumber=\count375
+\c@internallinenumbers=\count376
+\quotelinenumbersep=\dimen324
+\bframerule=\dimen325
+\bframesep=\dimen326
+\bframebox=\box81
+\@LN@amsmath@ams@eqpen=\count377
+)
+\c@FancyVerbWriteLine=\count378
+\c@FancyVerbBufferLine=\count379
+\c@FV@TrueTabGroupLevel=\count380
+\c@FV@TrueTabCounter=\count381
+\FV@TabBox@Group=\box82
+\FV@bgcolorstructbox=\box83
+\FV@TmpLength=\skip67
+\c@FV@HighlightLinesStart=\count382
+\c@FV@HighlightLinesStop=\count383
+\FV@LoopCount=\count384
+\FV@NCharsBox=\box84
+\FV@BreakIndent=\dimen327
+\FV@BreakIndentNChars=\count385
+\FV@BreakSymbolSepLeft=\dimen328
+\FV@BreakSymbolSepLeftNChars=\count386
+\FV@BreakSymbolSepRight=\dimen329
+\FV@BreakSymbolSepRightNChars=\count387
+\FV@BreakSymbolIndentLeft=\dimen330
+\FV@BreakSymbolIndentLeftNChars=\count388
+\FV@BreakSymbolIndentRight=\dimen331
+\FV@BreakSymbolIndentRightNChars=\count389
+\c@FancyVerbLineBreakLast=\count390
+\FV@LineBox=\box85
+\FV@LineIndentBox=\box86
+\c@FV@BreakBufferDepth=\count391
+\FV@LineWidth=\dimen332
+)
+(/usr/share/texmf-dist/tex/latex/latex2pydata/latex2pydata.sty
+Package: latex2pydata 2026/02/25 v0.7.0 latex2pydata - write data to file in Py
+thon literal format
+)
+(/usr/share/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+\pgfopts@list@add@a@toks=\toks55
+\pgfopts@list@add@b@toks=\toks56
+)
+(/usr/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count392
+\float@exts=\toks57
+\float@box=\box87
+\@float@everytoks=\toks58
+\@floatcapt=\box88
+)
+\c@minted@FancyVerbLineTemp=\count393
+\@float@every@listing=\toks59
+\c@listing=\count394
 )
 (/usr/share/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
 (/usr/share/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen324
-\captionmargin=\dimen325
-\caption@leftmargin=\dimen326
-\caption@rightmargin=\dimen327
-\caption@width=\dimen328
-\caption@indent=\dimen329
-\caption@parindent=\dimen330
-\caption@hangindent=\dimen331
+\caption@tempdima=\dimen333
+\captionmargin=\dimen334
+\caption@leftmargin=\dimen335
+\caption@rightmargin=\dimen336
+\caption@width=\dimen337
+\caption@indent=\dimen338
+\caption@parindent=\dimen339
+\caption@hangindent=\dimen340
 Package caption Info: beamer document class detected.
 
 (/usr/share/texmf-dist/tex/latex/caption/caption-beamer.sto
 File: caption-beamer.sto 2022/01/06 v2.0c Adaption of the caption package to th
 e beamer document classes (AR)
 ))
-\c@caption@flags=\count367
-\c@continuedfloat=\count368
+\c@caption@flags=\count395
+\c@continuedfloat=\count396
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: Hyperref support is turned off
 (caption)             because hyperref has stopped early.
 )
 (/usr/share/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count369
-\lst@gtempboxa=\box83
-\lst@token=\toks58
-\lst@length=\count370
-\lst@currlwidth=\dimen332
-\lst@column=\count371
-\lst@pos=\count372
-\lst@lostspace=\dimen333
-\lst@width=\dimen334
-\lst@newlines=\count373
-\lst@lineno=\count374
-\lst@maxwidth=\dimen335
+\lst@mode=\count397
+\lst@gtempboxa=\box89
+\lst@token=\toks60
+\lst@length=\count398
+\lst@currlwidth=\dimen341
+\lst@column=\count399
+\lst@pos=\count400
+\lst@lostspace=\dimen342
+\lst@width=\dimen343
+\lst@newlines=\count401
+\lst@lineno=\count402
+\lst@maxwidth=\dimen344
 
 (/usr/share/texmf-dist/tex/latex/listings/lstpatch.sty
 File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
 )
 (/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
-\c@lstnumber=\count375
-\lst@skipnumbers=\count376
-\lst@framebox=\box84
+\c@lstnumber=\count403
+\lst@skipnumbers=\count404
+\lst@framebox=\box90
 )
 (/usr/share/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2025/11/14 1.11b listings configuration
@@ -1017,49 +1118,49 @@ File: lstlang2.sty 2025/11/14 1.11b listings language file
 File: lstlang3.sty 2025/11/14 1.11b listings language file
 )
 LaTeX Font Info:    Trying to load font information for T1+SourceSansPro-TLF on
- input line 82.
+ input line 81.
 
 (/usr/share/texmf-dist/tex/latex/sourcesanspro/T1SourceSansPro-TLF.fd
 File: T1SourceSansPro-TLF.fd 2020/01/19 (autoinst) Font definitions for T1/Sour
 ceSansPro-TLF.
 )
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 82.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 81.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 10.95pt on input line 82.
+(Font)              scaled to size 10.95pt on input line 81.
 
 (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count377
+\l__color_backend_stack_int=\count405
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 82.
-LaTeX Font Info:    ... okay on input line 82.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 82.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 81.
 LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 8
-2.
+1.
 
 (/usr/share/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    ... okay on input line 81.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1097,17 +1198,17 @@ LaTeX Font Info:    ... okay on input line 82.
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count378
-\scratchdimen=\dimen336
-\scratchbox=\box85
-\nofMPsegments=\count379
-\nofMParguments=\count380
-\everyMPshowfont=\toks59
-\MPscratchCnt=\count381
-\MPscratchDim=\dimen337
-\MPnumerator=\count382
-\makeMPintoPDFobject=\count383
-\everyMPtoPDFconversion=\toks60
+\scratchcounter=\count406
+\scratchdimen=\dimen345
+\scratchbox=\box91
+\nofMPsegments=\count407
+\nofMParguments=\count408
+\everyMPshowfont=\toks61
+\MPscratchCnt=\count409
+\MPscratchDim=\dimen346
+\MPnumerator=\count410
+\makeMPintoPDFobject=\count411
+\everyMPtoPDFconversion=\toks62
 ) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1117,65 +1218,65 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 82.
+Package hyperref Info: Link coloring OFF on input line 81.
  (./main.out)
 (./main.out)
-\@outlinefile=\write5
-\openout5 = `main.out'.
+\@outlinefile=\write6
+\openout6 = `main.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 82.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 81.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 82.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 81.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 82.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 82.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 81.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> T1/SourceSansPro-TLF/b/n on input line
- 82.
+ 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
 (Font)                  OT1/cmr/bx/n --> T1/SourceSansPro-TLF/b/n on input line
- 82.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 82.
+ 81.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> T1/SourceSansPro-TLF/m/n on input line
- 82.
+ 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> T1/SourceSansPro-TLF/m/n on input lin
-e 82.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 82.
+e 81.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> T1/SourceSansPro-TLF/m/it on input lin
-e 82.
+e 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> T1/SourceSansPro-TLF/m/it on input li
-ne 82.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 82.
+ne 81.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 82.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 82.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 81.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
 (Font)                  T1/SourceSansPro-TLF/m/n --> T1/SourceSansPro-TLF/b/n o
-n input line 82.
+n input line 81.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  T1/SourceSansPro-TLF/m/it --> T1/SourceSansPro-TLF/b/it
- on input line 82.
+ on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 82.
+(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
 (Font)                  T1/SourceSansPro-TLF/b/n --> T1/SourceSansPro-TLF/b/n o
-n input line 82.
+n input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  T1/SourceSansPro-TLF/m/n --> T1/SourceSansPro-TLF/b/n o
-n input line 82.
+n input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  T1/SourceSansPro-TLF/m/it --> T1/SourceSansPro-TLF/b/it
- on input line 82.
+ on input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 82.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 81.
 
 (/usr/share/texmf-dist/tex/latex/translator/translator-basic-dictionary-English
 .dict
@@ -1204,14 +1305,14 @@ Dictionary: translator-theorem-dictionary, Language: English
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count384
+\c@lstlisting=\count412
  (./main.nav)
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 82.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 81.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 6.0pt on input line 82.
+(Font)              scaled to size 6.0pt on input line 81.
 
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 82--82
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 81--81
  [][][][]  
  []
 
@@ -1224,10 +1325,17 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
 (Font)              `T1/SourceSansPro-TLF/bold/n' on input line 103.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
 (Font)              scaled to size 10.95pt on input line 103.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 103.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 14.4pt on input line 103.
+! Undefined control sequence.
+<argument> \LargeContinuous 
+                            From Snapshots to Streams: A Live State Graph Ap...
+l.103 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
 (Font)              `T1/SourceSansPro-TLF/regular/n' on input line 103.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
@@ -1259,11 +1367,11 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
 (Font)              `T1/SourceSansPro-TLF/regular/it' on input line 103.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
 (Font)              scaled to size 6.0pt on input line 103.
-<architecture.png, id=19, 969.6225pt x 1279.78125pt>
+<architecture.png, id=19, 969.6225pt x 1289.81876pt>
 File: architecture.png Graphic file (type png)
 <use architecture.png>
 Package pdftex.def Info: architecture.png  used on input line 103.
-(pdftex.def)             Requested size: 106.17047pt x 140.13194pt.
+(pdftex.def)             Requested size: 106.17047pt x 141.23102pt.
 <lmu-background.pdf, id=20, 963.6pt x 542.025pt>
 File: lmu-background.pdf Graphic file (type pdf)
 <use lmu-background.pdf>
@@ -1283,63 +1391,23 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
 /enc/dvips/sourcesanspro/a_emkxm5.enc} <./lmu-background.pdf> <./architecture.p
 ng (PNG copy)>]
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 109--109
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 111--111
  [][][][]  
  []
 
 (./main.toc)
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 109.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 111.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 109.
+(Font)              scaled to size 14.4pt on input line 111.
 <lmu_logo.png, id=44, 2007.5pt x 1050.92625pt>
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 109.
+Package pdftex.def Info: lmu_logo.png  used on input line 111.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
-File: lmu-background.pdf Graphic file (type pdf)
-<use lmu-background.pdf>
-Package pdftex.def Info: lmu-background.pdf  used on input line 109.
-(pdftex.def)             Requested size: 455.24408pt x 256.07507pt.
  [2
 
  <./lmu_logo.png>]
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 115--115
- [][][][]  
- []
-
-File: lmu_logo.png Graphic file (type png)
-<use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 115.
-(pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
-File: lmu-background.pdf Graphic file (type pdf)
-<use lmu-background.pdf>
-Package pdftex.def Info: lmu-background.pdf  used on input line 115.
-(pdftex.def)             Requested size: 455.24408pt x 256.07507pt.
-
-Overfull \hbox (115.26752pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[3
-
-]
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 117--117
- [][][][]  
- []
-
-(./main.toc)
-File: lmu_logo.png Graphic file (type png)
-<use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 117.
-(pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
-File: lmu-background.pdf Graphic file (type pdf)
-<use lmu-background.pdf>
-Package pdftex.def Info: lmu-background.pdf  used on input line 117.
-(pdftex.def)             Requested size: 455.24408pt x 256.07507pt.
- [4
-
-]
 Overfull \hbox (115.26752pt too wide) in paragraph at lines 123--123
  [][][][]  
  []
@@ -1348,10 +1416,39 @@ File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
 Package pdftex.def Info: lmu_logo.png  used on input line 123.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
-File: lmu-background.pdf Graphic file (type pdf)
-<use lmu-background.pdf>
-Package pdftex.def Info: lmu-background.pdf  used on input line 123.
-(pdftex.def)             Requested size: 455.24408pt x 256.07507pt.
+
+Overfull \hbox (115.26752pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[3
+
+]
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 125--125
+ [][][][]  
+ []
+
+(./main.toc)
+File: lmu_logo.png Graphic file (type png)
+<use lmu_logo.png>
+Package pdftex.def Info: lmu_logo.png  used on input line 125.
+(pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
+ [4
+
+]
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 145--145
+ [][][][]  
+ []
+
+<k8s.png, id=74, 2020.54875pt x 987.69pt>
+File: k8s.png Graphic file (type png)
+<use k8s.png>
+Package pdftex.def Info: k8s.png  used on input line 145.
+(pdftex.def)             Requested size: 260.00905pt x 127.09303pt.
+File: lmu_logo.png Graphic file (type png)
+<use lmu_logo.png>
+Package pdftex.def Info: lmu_logo.png  used on input line 145.
+(pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
  [][][][]  
@@ -1359,20 +1456,15 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
 
 [5
 
-]
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 130--130
+ <./k8s.png (PNG copy)>]
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 186--186
  [][][][]  
  []
 
-(./main.bbl)
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 130.
+Package pdftex.def Info: lmu_logo.png  used on input line 186.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
-File: lmu-background.pdf Graphic file (type pdf)
-<use lmu-background.pdf>
-Package pdftex.def Info: lmu-background.pdf  used on input line 130.
-(pdftex.def)             Requested size: 455.24408pt x 256.07507pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
  [][][][]  
@@ -1380,15 +1472,32 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
 
 [6
 
+]
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 193--193
+ [][][][]  
+ []
+
+(./main.bbl)
+File: lmu_logo.png Graphic file (type png)
+<use lmu_logo.png>
+Package pdftex.def Info: lmu_logo.png  used on input line 193.
+(pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
+
+Overfull \hbox (115.26752pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[7
+
  </usr/share/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
-\tf@nav=\write6
-\openout6 = `main.nav'.
+\tf@nav=\write7
+\openout7 = `main.nav'.
 
-\tf@toc=\write7
-\openout7 = `main.toc'.
+\tf@toc=\write8
+\openout8 = `main.toc'.
 
-\tf@snm=\write8
-\openout8 = `main.snm'.
+\tf@snm=\write9
+\openout9 = `main.snm'.
 
  (./main.aux)
  ***********
@@ -1399,21 +1508,20 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 47949AC7C3DCEDDDEEFE3CD50587DDA1;103.
  ) 
 Here is how much of TeX's memory you used:
- 26930 strings out of 469515
- 508923 string characters out of 5470808
- 1061917 words of memory out of 5000000
- 55001 multiletter control sequences out of 15000+600000
- 735210 words of font info for 78 fonts, out of 8000000 for 9000
+ 31576 strings out of 469515
+ 638494 string characters out of 5470808
+ 1322796 words of memory out of 5000000
+ 59588 multiletter control sequences out of 15000+600000
+ 725542 words of font info for 76 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 128i,15n,123p,482b,758s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,15n,123p,533b,758s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb
-></usr/share/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb></
-usr/share/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb>
-
-Output written on main.pdf (6 pages, 800281 bytes).
+></usr/share/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.p
+fb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on main.pdf (7 pages, 619934 bytes).
 PDF statistics:
- 113 PDF objects out of 1000 (max. 8388607)
- 73 compressed objects within 1 object stream
- 16 named destinations out of 1000 (max. 500000)
- 78 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 124 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
+ 18 named destinations out of 1000 (max. 500000)
+ 89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
