@@ -26,15 +26,6 @@
 \DeclareCaptionFont{tiny}{\tiny}
 \captionsetup{font=scriptsize,labelfont=scriptsize,justification=centering}
 
-% ToC
-\AtBeginSection[]{
-	\begin{frame}[noframenumbering, plain]
-	\frametitle{Outline}
-	\setcounter{tocdepth}{1}
-	\tableofcontents[currentsection]
-\end{frame}
-}
-
 % Remove navigation
 \beamertemplatenavigationsymbolsempty
 
@@ -107,9 +98,11 @@ belowskip = -1.2 \baselineskip,
 %	PRESENTATION SLIDES
 %----------------------------------------------------------------------------------------
 
+\begin{frame}{Outline}
+\tableofcontents
+\end{frame}
 
 \section{Introduction}
-
 \begin{frame}{Introduction}
 
 \begin{itemize}
@@ -184,6 +177,14 @@ $\Rightarrow$\ LLM-based assistance systems promise cognitive reduction and time
     \item leverages LLMs to generate queries, checks, reports
 \end{itemize}
 
+\vspace{10pt}
+
+\textbf{Limitations:}
+\begin{itemize}
+    \item not live $\rightarrow$ doesn't capture all events
+    \item heavylifting of LLM
+\end{itemize}
+
 \column{0.6\textwidth}
 \begin{center}
   \includegraphics[width=0.8\textwidth]{synergy.png}
@@ -198,6 +199,94 @@ $\Rightarrow$\ LLM-based assistance systems promise cognitive reduction and time
 \vspace{10pt}
 
 \textit{"Does a live state graph for Kubernetes and predefined traversal tools improve the quality, speed and interpretability under dynamic cluster conditions compared to snapshot-based approaches."}
+
+\end{frame}
+
+\section{Methodology}
+\begin{frame}[fragile]{Methodology}
+
+\begin{columns}
+\column{0.4\textwidth}
+\textbf{Delta Queue} :
+\begin{itemize}
+  \item Buffering stream \cite{kineograph}
+  \item Selection and compaction \cite{the-log, data-intensive-apps}
+\end{itemize}
+
+\vspace{10pt}
+
+\textbf{Graph Planer} \cite{graphbolt}:
+\begin{itemize}
+  \item Aggregation and efficient planning of updates
+  \item Batching of graph updates
+\end{itemize}
+
+
+\column{0.6\textwidth}
+\begin{center}
+  \includegraphics[width=0.6\textwidth]{architecture.png}
+\end{center}
+\end{columns}
+
+\end{frame}
+
+\begin{frame}[fragile]{Methodology}
+
+\begin{columns}
+\column{0.4\textwidth}
+\textbf{Graph service:}
+\begin{itemize}
+  \item predefined traversal tool
+  \item trace trajectory for interpretability \cite{interpretability}
+\end{itemize}
+
+\vspace{10pt}
+
+\column{0.6\textwidth}
+\begin{center}
+  \includegraphics[width=0.6\textwidth]{architecture.png}
+\end{center}
+\end{columns}
+
+\end{frame}
+
+\section{Evaluation}
+\begin{frame}[fragile]{Evaluation}
+
+\begin{columns}
+\column{0.5\textwidth}
+\textbf{Fault injection:}
+\begin{itemize}
+  \item synthetically generated dataset with malformed manifests
+  \item reproducible workflows
+  \item example: \textit{Deployment with invalid image tag}
+\end{itemize}
+
+\column{0.5\textwidth}
+\textbf{Metrics:}
+\begin{itemize}
+  \item resemble Synergy-RCA metrics
+  \begin{itemize}
+    \item time-to-error-detection
+    \item correctness
+    \item token-usage
+  \end{itemize}
+\end{itemize}
+
+\end{columns}
+
+
+\end{frame}
+
+\section{Contributions}
+\begin{frame}[fragile]{Contributions}
+
+\begin{itemize}
+  \item live-state graph approach under dynamic conditions
+  \item Introduction of LLM-friendly and interpretable traversal interface
+  \item Design of RCA-Dataset for Kubernetes
+  \item Derives recommendations for future AI-based RCA-Systems
+\end{itemize}
 
 \end{frame}
 

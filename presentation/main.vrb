@@ -1,7 +1,9 @@
-\frametitle{Research Question}
+\frametitle{Contributions}
 
-\textbf{Research Question:}
-\vspace{10pt}
-
-\textit{"Does a live state graph for Kubernetes and predefined traversal tools improve the quality, speed and interpretability under dynamic cluster conditions compared to snapshot-based approaches."}
+\begin{itemize}
+  \item live-state graph approach under dynamic conditions
+  \item Introduction of LLM-friendly and interpretable traversal interface
+  \item Design of RCA-Dataset for Kubernetes
+  \item Derives recommendations for future AI-based RCA-Systems
+\end{itemize}
 

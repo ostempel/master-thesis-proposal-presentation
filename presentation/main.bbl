@@ -1,10 +1,43 @@
 \begin{thebibliography}{1}
 
+\bibitem{interpretability}
+Sindhuja Chaduvula, Jessee Ho, Kina Kim, Aravind Narayanan, Mahshid Alinoori,
+  Muskan Garg, Dhanesh Ramachandram, and Shaina Raza.
+\newblock From features to actions: Explainability in traditional and agentic
+  ai systems, 2026.
+
+\bibitem{kineograph}
+Raymond Cheng, Ji~Hong, Aapo Kyrola, Youshan Miao, Xuetian Weng, Ming Wu, Fan
+  Yang, Lidong Zhou, Feng Zhao, and Enhong Chen.
+\newblock Kineograph: taking the pulse of a fast-changing and connected world.
+\newblock In {\em Proceedings of the 7th ACM European Conference on Computer
+  Systems}, EuroSys '12, page 85–98, New York, NY, USA, 2012. Association for
+  Computing Machinery.
+
 \bibitem{cncf2024}
 {Cloud Native Computing Foundation}.
 \newblock Cloud native 2024: Approaching a decade of code, cloud, and change,
   2024.
 \newblock [Online].
+
+\bibitem{data-intensive-apps}
+Martin Kleppmann.
+\newblock {\em Designing Data-Intensive Applications: The Big Ideas Behind
+  Reliable, Scalable, and Maintainable Systems}.
+\newblock O'Reilly Media, 2017.
+
+\bibitem{the-log}
+Jay Kreps.
+\newblock The log: What every software engineer should know about real-time
+  data's unifying abstraction, 2013.
+\newblock LinkedIn Engineering Blog.
+
+\bibitem{graphbolt}
+Mugilan Mariappan and Keval Vora.
+\newblock Graphbolt: Dependency-driven synchronous processing of streaming
+  graphs.
+\newblock In {\em Proceedings of the Fourteenth EuroSys Conference 2019},
+  EuroSys '19, New York, NY, USA, 2019. Association for Computing Machinery.
 
 \bibitem{synergy-rca}
 Yong Xiang, Charley~Peter Chen, Liyi Zeng, Wei Yin, Xin Liu, Hu~Li, and Wei Xu.

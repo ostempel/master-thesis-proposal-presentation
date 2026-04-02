@@ -15,3 +15,66 @@
       primaryClass={cs.DC},
       url={https://arxiv.org/abs/2506.02490},
 }
+
+@inproceedings{kineograph,
+    author = {Cheng, Raymond and Hong, Ji and Kyrola, Aapo and Miao, Youshan and Weng, Xuetian and Wu, Ming and Yang, Fan and Zhou, Lidong and Zhao, Feng and Chen, Enhong},
+    title = {Kineograph: taking the pulse of a fast-changing and connected world},
+    year = {2012},
+    isbn = {9781450312233},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/2168836.2168846},
+    doi = {10.1145/2168836.2168846},
+    abstract = {Kineograph is a distributed system that takes a stream of incoming data to construct a continuously changing graph, which captures the relationships that exist in the data feed. As a computing platform, Kineograph further supports graph-mining algorithms to extract timely insights from the fast-changing graph structure. To accommodate graph-mining algorithms that assume a static underlying graph, Kineograph creates a series of consistent snapshots, using a novel and efficient epoch commit protocol. To keep up with continuous updates on the graph, Kineograph includes an incremental graph-computation engine. We have developed three applications on top of Kineograph to analyze Twitter data: user ranking, approximate shortest paths, and controversial topic detection. For these applications, Kineograph takes a live Twitter data feed and maintains a graph of edges between all users and hashtags. Our evaluation shows that with 40 machines processing 100K tweets per second, Kineograph is able to continuously compute global properties, such as user ranks, with less than 2.5-minute timeliness guarantees. This rate of traffic is more than 10 times the reported peak rate of Twitter as of October 2011.},
+    booktitle = {Proceedings of the 7th ACM European Conference on Computer Systems},
+    pages = {85–98},
+    numpages = {14},
+    keywords = {graph processing, distributed storage},
+    location = {Bern, Switzerland},
+    series = {EuroSys '12}
+}
+
+@inproceedings{graphbolt,
+    author = {Mariappan, Mugilan and Vora, Keval},
+    title = {GraphBolt: Dependency-Driven Synchronous Processing of Streaming Graphs},
+    year = {2019},
+    isbn = {9781450362818},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3302424.3303974},
+    doi = {10.1145/3302424.3303974},
+    abstract = {Efficient streaming graph processing systems leverage incremental processing by updating computed results to reflect the change in graph structure for the latest graph snapshot. Although certain monotonic path-based algorithms produce correct results by refining intermediate values via numerical comparisons, directly reusing values that were computed before mutation does not work correctly for algorithms that require BSP semantics. Since structural mutations in streaming graphs render the intermediate results unusable, exploiting incremental computation while simultaneously providing synchronous processing guarantees is challenging.In this paper we develop GraphBolt which incrementally processes streaming graphs while guaranteeing BSP semantics. GraphBolt incorporates dependency-driven incremental processing where it first tracks dependencies to capture how intermediate values get computed, and then uses this information to incrementally propagate the impact of change across intermediate values. To support wide variety of graph-based analytics, GraphBolt provides a generalized incremental programming model that enables development of incremental versions of complex aggregations. Our evaluation shows that GraphBolt's incremental processing eliminates redundant computations and efficiently processes streaming graphs with varying mutation rates, starting from just a single edge mutation all the way up to 1 million edge mutations at a time. Furthermore, being specialized for graph computations, GraphBolt extracts high performance compared to Differential Dataflow.},
+    booktitle = {Proceedings of the Fourteenth EuroSys Conference 2019},
+    articleno = {25},
+    numpages = {16},
+    keywords = {Incremental Processing, Streaming Graphs},
+    location = {Dresden, Germany},
+    series = {EuroSys '19}
+}
+
+@online{the-log,
+  author    = {Kreps, Jay},
+  title     = {The Log: What Every Software Engineer Should Know About Real-Time Data's Unifying Abstraction},
+  year      = {2013},
+  url       = {https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying},
+  urldate   = {2026-04-02},
+  note      = {LinkedIn Engineering Blog}
+}
+
+@book{data-intensive-apps,
+  author    = {Kleppmann, Martin},
+  title     = {Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems},
+  year      = {2017},
+  publisher = {O'Reilly Media},
+  isbn      = {978-1-4493-7332-0}
+}
+
+@misc{interpretability,
+      title={From Features to Actions: Explainability in Traditional and Agentic AI Systems},
+      author={Sindhuja Chaduvula and Jessee Ho and Kina Kim and Aravind Narayanan and Mahshid Alinoori and Muskan Garg and Dhanesh Ramachandram and Shaina Raza},
+      year={2026},
+      eprint={2602.06841},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2602.06841},
+}
