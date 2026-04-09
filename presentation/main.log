@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.4.7)  9 APR 2026 10:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.4.7)  9 APR 2026 22:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1563,19 +1563,20 @@ Overfull \hbox (115.26752pt too wide) in paragraph at lines 236--236
 \openout4 = `main.vrb'.
 
 
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 254--254
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 255--255
  [][][][]  
  []
 
 (./main.vrb
-File: architecture.png Graphic file (type png)
-<use architecture.png>
-Package pdftex.def Info: architecture.png  used on input line 15.
-(pdftex.def)             Requested size: 156.007pt x 207.51671pt.
+<graph.drawio.png, id=150, 532.99126pt x 452.69125pt>
+File: graph.drawio.png Graphic file (type png)
+<use graph.drawio.png>
+Package pdftex.def Info: graph.drawio.png  used on input line 16.
+(pdftex.def)             Requested size: 156.007pt x 132.49973pt.
 )
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 254.
+Package pdftex.def Info: lmu_logo.png  used on input line 255.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
@@ -1584,35 +1585,35 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
 
 [9
 
-]
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 257--257
+ <./graph.drawio.png>]
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 258--258
  [][][][]  
  []
 
 \openout4 = `main.vrb'.
 
 
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 282--282
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 304--304
  [][][][]  
  []
 
 (./main.vrb
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 17.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 10.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 17.
+(Font)              scaled to size 10.0pt on input line 10.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 17.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 10.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 5.0pt on input line 17.
+(Font)              scaled to size 5.0pt on input line 10.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 17.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 10.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 5.0pt on input line 17.
+(Font)              scaled to size 5.0pt on input line 10.
 )
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 282.
+Package pdftex.def Info: lmu_logo.png  used on input line 304.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
@@ -1622,21 +1623,21 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
 [10
 
 ]
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 285--285
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 307--307
  [][][][]  
  []
 
 \openout4 = `main.vrb'.
 
 
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 294--294
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 316--316
  [][][][]  
  []
 
 (./main.vrb)
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 294.
+Package pdftex.def Info: lmu_logo.png  used on input line 316.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
@@ -1646,14 +1647,14 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
 [11
 
 ]
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 300--300
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 322--322
  [][][][]  
  []
 
 (./main.bbl)
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 300.
+Package pdftex.def Info: lmu_logo.png  used on input line 322.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
@@ -1665,7 +1666,7 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
  </usr/share/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 300.
+Package pdftex.def Info: lmu_logo.png  used on input line 322.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
@@ -1678,7 +1679,7 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
 ]
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 300.
+Package pdftex.def Info: lmu_logo.png  used on input line 322.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
@@ -1707,10 +1708,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 715D4D1FE5D035628E8E4B2A57C92F4D;626.
  ) 
 Here is how much of TeX's memory you used:
- 31715 strings out of 469515
- 640915 string characters out of 5470808
- 1326708 words of memory out of 5000000
- 59683 multiletter control sequences out of 15000+600000
+ 31722 strings out of 469515
+ 641075 string characters out of 5470808
+ 1329708 words of memory out of 5000000
+ 59690 multiletter control sequences out of 15000+600000
  763776 words of font info for 87 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  128i,15n,123p,533b,862s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1719,10 +1720,10 @@ Here is how much of TeX's memory you used:
 usr/share/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb>
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/te
 xmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on main.pdf (14 pages, 930210 bytes).
+Output written on main.pdf (14 pages, 958434 bytes).
 PDF statistics:
- 236 PDF objects out of 1000 (max. 8388607)
+ 238 PDF objects out of 1000 (max. 8388607)
  167 compressed objects within 2 object streams
  44 named destinations out of 1000 (max. 500000)
- 133 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 138 words of extra memory for PDF output out of 10000 (max. 10000000)
 

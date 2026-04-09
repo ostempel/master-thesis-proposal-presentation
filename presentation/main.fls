@@ -563,10 +563,11 @@ OUTPUT main.vrb
 INPUT ./main.vrb
 INPUT ./main.vrb
 INPUT main.vrb
-INPUT ./architecture.png
-INPUT ./architecture.png
-INPUT ./architecture.png
-INPUT ./architecture.png
+INPUT ./graph.drawio.png
+INPUT ./graph.drawio.png
+INPUT ./graph.drawio.png
+INPUT ./graph.drawio.png
+INPUT ./graph.drawio.png
 INPUT ./lmu_logo.png
 INPUT ./lmu_logo.png
 INPUT ./lmu_logo.png

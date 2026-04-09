@@ -239,7 +239,8 @@ $\Rightarrow$\ LLM-based assistance systems promise cognitive reduction and time
 \column{0.4\textwidth}
 \textbf{Graph service:}
 \begin{itemize}
-  \item predefined traversal tool
+  \item graph mine initial context
+  \item refine context with predefined traversal tool
   \item trace trajectory for interpretability \cite{interpretability}
 \end{itemize}
 
@@ -247,7 +248,7 @@ $\Rightarrow$\ LLM-based assistance systems promise cognitive reduction and time
 
 \column{0.6\textwidth}
 \begin{center}
-  \includegraphics[width=0.6\textwidth]{architecture.png}
+  \includegraphics[width=0.6\textwidth]{graph.drawio.png}
 \end{center}
 \end{columns}
 
@@ -260,12 +261,33 @@ $\Rightarrow$\ LLM-based assistance systems promise cognitive reduction and time
 \column{0.5\textwidth}
 \textbf{Fault injection:}
 \begin{itemize}
-  \item synthetically generated dataset with malformed manifests
-  \item reproducible workflows
-  \item example: \textit{Deployment with invalid image tag}
+  \item Dataset of synthetic workflows with malformed manifests
+  \item Each workflow:
+  \begin{itemize}
+    \item apply to cluster
+    \item run RCA
+    \item cleanup
+  \end{itemize}
+  \item Reproducible across both systems for fair comparison
+  \item Example: \textit{Deployment with invalid image tag}
 \end{itemize}
 
 \column{0.5\textwidth}
+\textbf{Ablations parameters:}
+\begin{itemize}
+  \item Graphplaner:
+  \begin{itemize}
+    \item batch or interval based
+    \item batch size and interval time
+  \end{itemize}
+  \item Graph traversal:
+  \begin{itemize}
+    \item no graph mining / no refinement
+    \item different graph mining algorithms
+  \end{itemize}
+\end{itemize}
+
+\vspace{10pt}
 \textbf{Metrics:}
 \begin{itemize}
   \item resemble Synergy-RCA metrics
