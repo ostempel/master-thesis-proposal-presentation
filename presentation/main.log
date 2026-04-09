@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.4.7)  9 APR 2026 22:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.4.7)  9 APR 2026 22:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1534,19 +1534,19 @@ Overfull \hbox (115.26752pt too wide) in paragraph at lines 209--209
 \openout4 = `main.vrb'.
 
 
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 234--234
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 233--233
  [][][][]  
  []
 
 (./main.vrb
 File: architecture.png Graphic file (type png)
 <use architecture.png>
-Package pdftex.def Info: architecture.png  used on input line 22.
+Package pdftex.def Info: architecture.png  used on input line 21.
 (pdftex.def)             Requested size: 156.007pt x 207.51671pt.
 )
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 234.
+Package pdftex.def Info: lmu_logo.png  used on input line 233.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
@@ -1556,14 +1556,14 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
 [8
 
 ]
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 236--236
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 235--235
  [][][][]  
  []
 
 \openout4 = `main.vrb'.
 
 
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 255--255
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 254--254
  [][][][]  
  []
 
@@ -1576,7 +1576,7 @@ Package pdftex.def Info: graph.drawio.png  used on input line 16.
 )
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 255.
+Package pdftex.def Info: lmu_logo.png  used on input line 254.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
@@ -1586,14 +1586,14 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
 [9
 
  <./graph.drawio.png>]
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 258--258
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 257--257
  [][][][]  
  []
 
 \openout4 = `main.vrb'.
 
 
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 304--304
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 303--303
  [][][][]  
  []
 
@@ -1613,7 +1613,7 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
 )
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 304.
+Package pdftex.def Info: lmu_logo.png  used on input line 303.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
@@ -1623,21 +1623,21 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
 [10
 
 ]
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 307--307
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 306--306
  [][][][]  
  []
 
 \openout4 = `main.vrb'.
 
 
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 316--316
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 315--315
  [][][][]  
  []
 
 (./main.vrb)
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 316.
+Package pdftex.def Info: lmu_logo.png  used on input line 315.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
@@ -1647,14 +1647,14 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
 [11
 
 ]
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 322--322
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 321--321
  [][][][]  
  []
 
 (./main.bbl)
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 322.
+Package pdftex.def Info: lmu_logo.png  used on input line 321.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
@@ -1666,7 +1666,7 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
  </usr/share/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 322.
+Package pdftex.def Info: lmu_logo.png  used on input line 321.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
@@ -1679,7 +1679,7 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
 ]
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 322.
+Package pdftex.def Info: lmu_logo.png  used on input line 321.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
@@ -1720,7 +1720,7 @@ Here is how much of TeX's memory you used:
 usr/share/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb>
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/te
 xmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on main.pdf (14 pages, 958423 bytes).
+Output written on main.pdf (14 pages, 958412 bytes).
 PDF statistics:
  238 PDF objects out of 1000 (max. 8388607)
  167 compressed objects within 2 object streams
