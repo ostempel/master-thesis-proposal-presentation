@@ -26,6 +26,11 @@ Martin Kleppmann.
   Reliable, Scalable, and Maintainable Systems}.
 \newblock O'Reilly Media, 2017.
 
+\bibitem{komodor2025enterprise}
+{Komodor}.
+\newblock Komodor 2025 enterprise kubernetes report.
+\newblock Industry report, Komodor Automation Ltd., September 2025.
+
 \bibitem{the-log}
 Jay Kreps.
 \newblock The log: What every software engineer should know about real-time
@@ -38,6 +43,13 @@ Mugilan Mariappan and Keval Vora.
   graphs.
 \newblock In {\em Proceedings of the Fourteenth EuroSys Conference 2019},
   EuroSys '19, New York, NY, USA, 2019. Association for Computing Machinery.
+
+\bibitem{splunk2024hiddencosts}
+{Splunk}.
+\newblock The hidden costs of downtime: The \$400b problem facing the global
+  2000.
+\newblock Industry report, Splunk Inc., 2024.
+\newblock In partnership with Oxford Economics.
 
 \bibitem{synergy-rca}
 Yong Xiang, Charley~Peter Chen, Liyi Zeng, Wei Yin, Xin Liu, Hu~Li, and Wei Xu.

@@ -106,14 +106,16 @@ belowskip = -1.2 \baselineskip,
 \begin{frame}{Introduction}
 
 \begin{itemize}
-  \item Kubernetes and cloud-native technologies have become industry standard
-  \item Key challenges: perceived complexity, lack of training \cite{cncf2024}
-  \item Root cause analysis (RCA) as key bottleneck
+  \item Kubernetes, Containerisation and cloud-native technologies have become industry standard
+  \item Key challenges for operation: perceived complexity, lack of training \cite{cncf2024}
+  \vspace{10pt}
+  \item IT-Downtime generate enormous costs for companies \cite{splunk2024hiddencosts}
+  \item Root cause analysis (RCA) as key bottleneck \cite{komodor2025enterprise}
 \end{itemize}
 
 \vspace{10pt}
 
-$\Rightarrow$\ LLM-based assistance systems promise cognitive reduction and timely detection
+$\Rightarrow$\ LLM-based assistance systems promise cognitive reduction and timely detection of issues
 
 \end{frame}
 
@@ -123,10 +125,11 @@ $\Rightarrow$\ LLM-based assistance systems promise cognitive reduction and time
 
 \begin{columns}
 \column{0.4\textwidth}
-\textbf{Kubernetes:}
+\textbf{Kubernetes (k8s):}
 \begin{itemize}
   \item Open-source, feature-rich container orchestrator
   \item Deployments through declarative manifests
+  \item Controller continuously reconcile actual with desried states
 \end{itemize}
 
 \column{0.6\textwidth}
@@ -181,8 +184,8 @@ $\Rightarrow$\ LLM-based assistance systems promise cognitive reduction and time
 
 \textbf{Limitations:}
 \begin{itemize}
-    \item not live $\rightarrow$ doesn't capture all events
-    \item heavylifting of LLM
+    \item graph is not live $\rightarrow$ doesn't capture all events
+    \item heavylifting of LLM prompts and expert knowledge
 \end{itemize}
 
 \column{0.6\textwidth}
