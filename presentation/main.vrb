@@ -8,6 +8,6 @@
   \item Live-state graph approach under dynamic conditions
   \item Introduction of LLM-friendly and interpretable traversal interface
   \item Design of RCA-Dataset for Kubernetes
-  \item Derives recommendations for future AI-based RCA-Systems
+  \item Recommendations for future AI-based RCA-Systems
 \end{itemize}
 
