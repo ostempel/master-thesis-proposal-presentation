@@ -25,6 +25,7 @@
 \usepackage{caption}
 \DeclareCaptionFont{tiny}{\tiny}
 \captionsetup{font=scriptsize,labelfont=scriptsize,justification=centering}
+\setbeamertemplate{caption}[numbered]
 
 % Remove navigation
 \beamertemplatenavigationsymbolsempty
@@ -133,9 +134,12 @@ $\Rightarrow$\ LLM-based assistance systems promise cognitive reduction and time
 \end{itemize}
 
 \column{0.6\textwidth}
+\begin{figure}
 \begin{center}
   \includegraphics[width=1.0\textwidth]{k8s.png}
 \end{center}
+\caption{Kubernetes architecture}
+\end{figure}
 \end{columns}
 
 \vspace{10pt}
@@ -163,9 +167,12 @@ $\Rightarrow$\ LLM-based assistance systems promise cognitive reduction and time
 
 
 \column{0.6\textwidth}
+\begin{figure}
 \begin{center}
-  \includegraphics[width=0.4\textwidth]{error-yaml.png}
+  \includegraphics[width=0.35\textwidth]{error-yaml.png}
 \end{center}
+\caption{Incorrect manifest}
+\end{figure}
 \end{columns}
 \end{frame}
 
@@ -189,9 +196,12 @@ $\Rightarrow$\ LLM-based assistance systems promise cognitive reduction and time
 \end{itemize}
 
 \column{0.6\textwidth}
+\begin{figure}
 \begin{center}
   \includegraphics[width=0.8\textwidth]{synergy.png}
 \end{center}
+\caption{SynergyRCA Architecture}
+\end{figure}
 \end{columns}
 \end{frame}
 
@@ -201,7 +211,7 @@ $\Rightarrow$\ LLM-based assistance systems promise cognitive reduction and time
 \textbf{Research Question:}
 \vspace{10pt}
 
-\textit{"Does a live state graph for Kubernetes and predefined traversal tools improve the quality, speed and interpretability under dynamic cluster conditions compared to snapshot-based approaches."}
+\textit{"Does a live state graph for Kubernetes and predefined traversal tools improve the quality, speed and interpretability of Root-Cause-Analysis under dynamic cluster conditions compared to snapshot-based approaches."}
 
 \end{frame}
 
@@ -225,9 +235,12 @@ $\Rightarrow$\ LLM-based assistance systems promise cognitive reduction and time
 
 
 \column{0.6\textwidth}
+\begin{figure}
 \begin{center}
-  \includegraphics[width=0.6\textwidth]{architecture.png}
+  \includegraphics[width=0.55\textwidth]{architecture.png}
 \end{center}
+\caption{Proposed Architecture}
+\end{figure}
 \end{columns}
 
 \end{frame}
@@ -246,9 +259,12 @@ $\Rightarrow$\ LLM-based assistance systems promise cognitive reduction and time
 \vspace{10pt}
 
 \column{0.6\textwidth}
+\begin{figure}
 \begin{center}
-  \includegraphics[width=0.6\textwidth]{graph.drawio.png}
+  \includegraphics[width=0.65\textwidth]{graph.drawio.png}
 \end{center}
+\caption{Example graph}
+\end{figure}
 \end{columns}
 
 \end{frame}

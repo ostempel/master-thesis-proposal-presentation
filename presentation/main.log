@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.4.7)  9 APR 2026 22:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.4.7)  10 APR 2026 12:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1118,16 +1118,16 @@ File: lstlang2.sty 2025/11/14 1.11b listings language file
 File: lstlang3.sty 2025/11/14 1.11b listings language file
 )
 LaTeX Font Info:    Trying to load font information for T1+SourceSansPro-TLF on
- input line 72.
+ input line 73.
 
 (/usr/share/texmf-dist/tex/latex/sourcesanspro/T1SourceSansPro-TLF.fd
 File: T1SourceSansPro-TLF.fd 2020/01/19 (autoinst) Font definitions for T1/Sour
 ceSansPro-TLF.
 )
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 72.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 73.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 10.95pt on input line 72.
+(Font)              scaled to size 10.95pt on input line 73.
 
 (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
@@ -1135,32 +1135,32 @@ File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 72.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 73.
 LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 7
-2.
+3.
 
 (/usr/share/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    ... okay on input line 73.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1218,65 +1218,65 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 72.
+Package hyperref Info: Link coloring OFF on input line 73.
  (./main.out)
 (./main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 72.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 73.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 72.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 73.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 72.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 72.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 73.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> T1/SourceSansPro-TLF/b/n on input line
- 72.
+ 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
 (Font)                  OT1/cmr/bx/n --> T1/SourceSansPro-TLF/b/n on input line
- 72.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 72.
+ 73.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> T1/SourceSansPro-TLF/m/n on input line
- 72.
+ 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> T1/SourceSansPro-TLF/m/n on input lin
-e 72.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 72.
+e 73.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> T1/SourceSansPro-TLF/m/it on input lin
-e 72.
+e 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> T1/SourceSansPro-TLF/m/it on input li
-ne 72.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 72.
+ne 73.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 72.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 72.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 73.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
 (Font)                  T1/SourceSansPro-TLF/m/n --> T1/SourceSansPro-TLF/b/n o
-n input line 72.
+n input line 73.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  T1/SourceSansPro-TLF/m/it --> T1/SourceSansPro-TLF/b/it
- on input line 72.
+ on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 72.
+(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
 (Font)                  T1/SourceSansPro-TLF/b/n --> T1/SourceSansPro-TLF/b/n o
-n input line 72.
+n input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  T1/SourceSansPro-TLF/m/n --> T1/SourceSansPro-TLF/b/n o
-n input line 72.
+n input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  T1/SourceSansPro-TLF/m/it --> T1/SourceSansPro-TLF/b/it
- on input line 72.
+ on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 72.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 73.
 
 (/usr/share/texmf-dist/tex/latex/translator/translator-basic-dictionary-English
 .dict
@@ -1308,72 +1308,72 @@ Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count412
  (./main.nav)
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 72.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 73.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 6.0pt on input line 72.
+(Font)              scaled to size 6.0pt on input line 73.
 
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 72--72
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 73--73
  [][][][]  
  []
 
 
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 94--94
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 95--95
  [][][][]  
  []
 
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 94.
+(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 95.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 10.95pt on input line 94.
+(Font)              scaled to size 10.95pt on input line 95.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 94.
+(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 95.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 14.4pt on input line 94.
+(Font)              scaled to size 14.4pt on input line 95.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 94.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 95.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 9.0pt on input line 94.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 94.
+(Font)              scaled to size 9.0pt on input line 95.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 95.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 94.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 95.
 
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 94.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 95.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 8.0pt on input line 94.
+(Font)              scaled to size 8.0pt on input line 95.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 94.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 95.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 10.95pt on input line 94.
+(Font)              scaled to size 10.95pt on input line 95.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 94.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 95.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 8.0pt on input line 94.
+(Font)              scaled to size 8.0pt on input line 95.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 94.
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 95.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 6.0pt on input line 94.
-<architecture.png, id=39, 969.6225pt x 1289.81876pt>
+(Font)              scaled to size 6.0pt on input line 95.
+<architecture.png, id=39, 577.15625pt x 744.7825pt>
 File: architecture.png Graphic file (type png)
 <use architecture.png>
-Package pdftex.def Info: architecture.png  used on input line 94.
-(pdftex.def)             Requested size: 106.17047pt x 141.23102pt.
-<lmu-background.pdf, id=40, 963.6pt x 542.025pt>
+Package pdftex.def Info: architecture.png  used on input line 95.
+(pdftex.def)             Requested size: 106.17047pt x 136.99846pt.
+<lmu-background.pdf, id=41, 963.6pt x 542.025pt>
 File: lmu-background.pdf Graphic file (type pdf)
 <use lmu-background.pdf>
-Package pdftex.def Info: lmu-background.pdf  used on input line 94.
+Package pdftex.def Info: lmu-background.pdf  used on input line 95.
 (pdftex.def)             Requested size: 455.24408pt x 256.07507pt.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 94.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 95.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 4.0pt on input line 94.
+(Font)              scaled to size 4.0pt on input line 95.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
  [][][][]  
@@ -1383,20 +1383,20 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
 /enc/dvips/sourcesanspro/a_emkxm5.enc} <./lmu-background.pdf> <./architecture.p
-ng (PNG copy)>]
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 103--103
+ng>]
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 104--104
  [][][][]  
  []
 
 (./main.toc)
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 103.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 104.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 103.
-<lmu_logo.png, id=66, 2007.5pt x 1050.92625pt>
+(Font)              scaled to size 14.4pt on input line 104.
+<lmu_logo.png, id=68, 2007.5pt x 1050.92625pt>
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 103.
+Package pdftex.def Info: lmu_logo.png  used on input line 104.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
@@ -1406,13 +1406,13 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
 [2
 
  <./lmu_logo.png>]
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 120--120
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 121--121
  [][][][]  
  []
 
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 120.
+Package pdftex.def Info: lmu_logo.png  used on input line 121.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
@@ -1422,18 +1422,18 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
 [3
 
 ]
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 143--143
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 147--147
  [][][][]  
  []
 
-<k8s.png, id=97, 2020.54875pt x 987.69pt>
+<k8s.png, id=98, 2020.54875pt x 987.69pt>
 File: k8s.png Graphic file (type png)
 <use k8s.png>
-Package pdftex.def Info: k8s.png  used on input line 143.
+Package pdftex.def Info: k8s.png  used on input line 147.
 (pdftex.def)             Requested size: 260.00905pt x 127.09303pt.
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 143.
+Package pdftex.def Info: lmu_logo.png  used on input line 147.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
@@ -1443,27 +1443,27 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
 [4
 
  <./k8s.png (PNG copy)>]
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 145--145
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 149--149
  [][][][]  
  []
 
 \openout4 = `main.vrb'.
 
 
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 170--170
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 177--177
  [][][][]  
  []
 
 (./main.vrb
-<error-yaml.png, id=105, 594.22pt x 1157.32375pt>
+<error-yaml.png, id=106, 302.12875pt x 602.25pt>
 File: error-yaml.png Graphic file (type png)
 <use error-yaml.png>
-Package pdftex.def Info: error-yaml.png  used on input line 23.
-(pdftex.def)             Requested size: 104.00203pt x 202.55234pt.
+Package pdftex.def Info: error-yaml.png  used on input line 24.
+(pdftex.def)             Requested size: 91.00475pt x 181.40236pt.
 )
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 170.
+Package pdftex.def Info: lmu_logo.png  used on input line 177.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
@@ -1473,37 +1473,7 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
 [5
 
  <./error-yaml.png (PNG copy)>]
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 173--173
- [][][][]  
- []
-
-\openout4 = `main.vrb'.
-
-
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 196--196
- [][][][]  
- []
-
-(./main.vrb
-<synergy.png, id=115, 1000.73875pt x 593.21625pt>
-File: synergy.png Graphic file (type png)
-<use synergy.png>
-Package pdftex.def Info: synergy.png  used on input line 21.
-(pdftex.def)             Requested size: 208.00803pt x 123.30278pt.
-)
-File: lmu_logo.png Graphic file (type png)
-<use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 196.
-(pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
-
-Overfull \hbox (115.26752pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[6
-
- <./synergy.png (PNG copy)>]
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 199--199
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 180--180
  [][][][]  
  []
 
@@ -1514,7 +1484,13 @@ Overfull \hbox (115.26752pt too wide) in paragraph at lines 206--206
  [][][][]  
  []
 
-(./main.vrb)
+(./main.vrb
+<synergy.png, id=116, 1000.73875pt x 593.21625pt>
+File: synergy.png Graphic file (type png)
+<use synergy.png>
+Package pdftex.def Info: synergy.png  used on input line 22.
+(pdftex.def)             Requested size: 208.00803pt x 123.30278pt.
+)
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
 Package pdftex.def Info: lmu_logo.png  used on input line 206.
@@ -1524,9 +1500,9 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
  [][][][]  
  []
 
-[7
+[6
 
-]
+ <./synergy.png (PNG copy)>]
 Overfull \hbox (115.26752pt too wide) in paragraph at lines 209--209
  [][][][]  
  []
@@ -1534,19 +1510,43 @@ Overfull \hbox (115.26752pt too wide) in paragraph at lines 209--209
 \openout4 = `main.vrb'.
 
 
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 233--233
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 216--216
+ [][][][]  
+ []
+
+(./main.vrb)
+File: lmu_logo.png Graphic file (type png)
+<use lmu_logo.png>
+Package pdftex.def Info: lmu_logo.png  used on input line 216.
+(pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
+
+Overfull \hbox (115.26752pt too wide) has occurred while \output is active
+ [][][][]  
+ []
+
+[7
+
+]
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 219--219
+ [][][][]  
+ []
+
+\openout4 = `main.vrb'.
+
+
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 246--246
  [][][][]  
  []
 
 (./main.vrb
 File: architecture.png Graphic file (type png)
 <use architecture.png>
-Package pdftex.def Info: architecture.png  used on input line 21.
-(pdftex.def)             Requested size: 156.007pt x 207.51671pt.
+Package pdftex.def Info: architecture.png  used on input line 22.
+(pdftex.def)             Requested size: 143.00577pt x 184.53595pt.
 )
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 233.
+Package pdftex.def Info: lmu_logo.png  used on input line 246.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
@@ -1556,27 +1556,27 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
 [8
 
 ]
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 235--235
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 248--248
  [][][][]  
  []
 
 \openout4 = `main.vrb'.
 
 
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 254--254
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 270--270
  [][][][]  
  []
 
 (./main.vrb
-<graph.drawio.png, id=150, 532.99126pt x 452.69125pt>
+<graph.drawio.png, id=151, 532.99126pt x 452.69125pt>
 File: graph.drawio.png Graphic file (type png)
 <use graph.drawio.png>
-Package pdftex.def Info: graph.drawio.png  used on input line 16.
-(pdftex.def)             Requested size: 156.007pt x 132.49973pt.
+Package pdftex.def Info: graph.drawio.png  used on input line 17.
+(pdftex.def)             Requested size: 169.00429pt x 143.53792pt.
 )
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 254.
+Package pdftex.def Info: lmu_logo.png  used on input line 270.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
@@ -1586,14 +1586,14 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
 [9
 
  <./graph.drawio.png>]
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 257--257
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 273--273
  [][][][]  
  []
 
 \openout4 = `main.vrb'.
 
 
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 303--303
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 319--319
  [][][][]  
  []
 
@@ -1613,7 +1613,7 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
 )
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 303.
+Package pdftex.def Info: lmu_logo.png  used on input line 319.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
@@ -1623,21 +1623,21 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
 [10
 
 ]
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 306--306
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 322--322
  [][][][]  
  []
 
 \openout4 = `main.vrb'.
 
 
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 315--315
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 331--331
  [][][][]  
  []
 
 (./main.vrb)
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 315.
+Package pdftex.def Info: lmu_logo.png  used on input line 331.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
@@ -1647,14 +1647,14 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
 [11
 
 ]
-Overfull \hbox (115.26752pt too wide) in paragraph at lines 321--321
+Overfull \hbox (115.26752pt too wide) in paragraph at lines 337--337
  [][][][]  
  []
 
 (./main.bbl)
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 321.
+Package pdftex.def Info: lmu_logo.png  used on input line 337.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
@@ -1666,7 +1666,7 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
  </usr/share/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 321.
+Package pdftex.def Info: lmu_logo.png  used on input line 337.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
@@ -1679,7 +1679,7 @@ Overfull \hbox (115.26752pt too wide) has occurred while \output is active
 ]
 File: lmu_logo.png Graphic file (type png)
 <use lmu_logo.png>
-Package pdftex.def Info: lmu_logo.png  used on input line 321.
+Package pdftex.def Info: lmu_logo.png  used on input line 337.
 (pdftex.def)             Requested size: 56.88351pt x 28.44754pt.
 
 Overfull \hbox (115.26752pt too wide) has occurred while \output is active
@@ -1708,21 +1708,21 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 715D4D1FE5D035628E8E4B2A57C92F4D;626.
  ) 
 Here is how much of TeX's memory you used:
- 31722 strings out of 469515
- 641075 string characters out of 5470808
- 1329708 words of memory out of 5000000
- 59690 multiletter control sequences out of 15000+600000
+ 31730 strings out of 469515
+ 641241 string characters out of 5470808
+ 1329711 words of memory out of 5000000
+ 59698 multiletter control sequences out of 15000+600000
  763776 words of font info for 87 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 128i,15n,123p,533b,862s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,15n,123p,533b,861s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb
 ></usr/share/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb></
 usr/share/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb>
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/te
 xmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on main.pdf (14 pages, 958412 bytes).
+Output written on main.pdf (14 pages, 719968 bytes).
 PDF statistics:
- 238 PDF objects out of 1000 (max. 8388607)
+ 239 PDF objects out of 1000 (max. 8388607)
  167 compressed objects within 2 object streams
  44 named destinations out of 1000 (max. 500000)
  138 words of extra memory for PDF output out of 10000 (max. 10000000)
